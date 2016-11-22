@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TestPreviewer/.vs/TestPreviewer/v14
+/TestPreviewer/packages
+/TestPreviewer/TestPreviewer/TestPreviewer/bin
+/TestPreviewer/TestPreviewer/TestPreviewer/obj
+/TestPreviewer/TestPreviewer/TestPreviewer.Droid/bin
+/TestPreviewer/TestPreviewer/TestPreviewer.Droid/obj
+/TestPreviewer/TestPreviewer/TestPreviewer.iOS/bin/iPhoneSimulator/Debug
+/TestPreviewer/TestPreviewer/TestPreviewer.iOS/obj
+/TestPreviewer/TestPreviewer/TestPreviewer.UWP/bin
+/TestPreviewer/TestPreviewer/TestPreviewer.UWP/obj
